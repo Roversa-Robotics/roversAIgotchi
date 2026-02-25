@@ -1,5 +1,5 @@
 
-<h1><img src="source/roversa.png" alt="Roversa" height="36" /> RoversAIgotchi</h1>
+<h1>RoversAIgotchi <img src="source/roversa.png" alt="Roversa" height="50" /> </h1>
 
 
 Here you will find all starter codes and tutorials for the RoversAIgotchi project
