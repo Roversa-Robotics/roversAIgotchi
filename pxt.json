@@ -1,0 +1,12 @@
+{
+    "name": "roversAIgotchi",
+    "description": "A virtual AI pet for the micro:bit - take care of your Gotchi by feeding it and keeping it happy!",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj"
+}
