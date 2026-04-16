@@ -14,12 +14,12 @@ Here you will find all starter codes and tutorials for the RoversAIgotchi projec
 
 ## 🗂️ Overview
 
-| # | Project | Description | Concepts Covered |
-|---|---------|-------------|------------------|
-| 01 | [Getting Started](https://github.com/your-org/microbit-01-getting-started) | Hello world & basic display | LEDs, buttons |
-| 02 | [Challenge_1](https://github.com/marianaarboleda/roversaigotchi_ch_01.git) | Challenge |  |
-| 03 | [Challenge_2](https://github.com/your-org/microbit-03-temperature-sensor) | Challenge |  |
-| 04 | [Radio Communication](https://github.com/your-org/microbit-04-radio-communication) | Send messages between Roversas| Radio, events |
+| # | Project | Description | Concepts Covered | Share link |
+|---|---------|-------------|------------------|------------------|
+| 01 | [Getting Started](https://github.com/your-org/microbit-01-getting-started) | Hello world & basic display | LEDs, buttons | |
+| 02 | [Challenge_1](https://github.com/marianaarboleda/roversaigotchi_ch_01.git) | Challenge |  | [makecode-challenge1] (https://makecode.microbit.org/S06206-59160-00837-93280 ) |
+| 03 | [Challenge_2](https://github.com/your-org/microbit-03-temperature-sensor) | Challenge |  |  |
+| 04 | [Radio Communication](https://github.com/your-org/microbit-04-radio-communication) | Send messages between Roversas| Radio, events |  |
 
 ---
 
