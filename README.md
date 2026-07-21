@@ -1,53 +1,51 @@
 
-<h1>RoversAIgotchi <img src="source/roversa.png" alt="Roversa" height="50" /> </h1>
+<h1>Roversa PetBot Hub <img src="assets/roversa.png" alt="Roversa" height="50" /></h1>
 
+Central hub for everything related to the Roversa PetBot — a micro:bit-powered virtual pet built with [Roversa](https://www.roversa.com/home.html).
 
-Here you will find all starter codes and tutorials for the RoversAIgotchi project
-
----
-
-## 📋 Prerequisites
-
-[Roversa](https://www.roversa.com/home.html) and USB cable
+This repository links together the MakeCode extension, starter projects, and challenges. Each MakeCode project lives in its own repository (as MakeCode requires), and this hub keeps them organized in one place.
 
 ---
 
-## 🗂️ Overview
+## Quick Links
 
-| # | Project | Description | Concepts Covered | Share link |
-|---|---------|-------------|------------------|------------------|
-| 01 | [Getting Started](https://github.com/marianaarboleda/roversaigotchi_00_starter) | Starter code for per behaviour |  | [makecode-starter-code](https://makecode.microbit.org/S13336-18138-53854-98129) |
-| 02 | [Challenge_1](https://github.com/marianaarboleda/roversaigotchi_ch_01.git) | Physical activity |  | [makecode-challenge1](https://makecode.microbit.org/S06206-59160-00837-93280 ) |
-| 03 | [Challenge_2](https://github.com/your-org/microbit-03-temperature-sensor) | Challenge |  |  |
-| 04 | [Radio Communication](https://github.com/your-org/microbit-04-radio-communication) | Send messages between Roversas| Radio, events |  |
+- [Getting Started Guide](guides/getting-started.md) — setup, import, and flash your first project
+- [PetBot Extension](extension/README.md) — the custom MakeCode blocks that power PetBot
+- [Projects & Challenges](projects/README.md) — all projects with share links and descriptions
 
 ---
 
-## 🚀 Getting Started
+## Project Overview
 
-1. Clone or open the individual project repo linked above
-2. Go to [makecode.microbit.org](https://makecode.microbit.org)
-3. Click **Import** → **Import URL** and paste the GitHub repo URL
-4. Flash to your micro:bit and experiment!
+| # | Project | Description | Share Link |
+|---|---------|-------------|------------|
+| 00 | [Blocks Example](projects/00-blocks-example/) | The full PetBot rebuilt from standard MakeCode blocks | [Open in MakeCode](https://makecode.microbit.org/S76624-07677-14393-69984) |
+| 01 | [Explore PetBot](projects/01-explore-roversapetbot/) | Press buttons and discover how activities affect wellbeing | [Open in MakeCode](https://makecode.microbit.org/S50637-53907-35477-98778) |
 
----
-## 📁 Repository Structure
-
-Each project follows this structure:
-- `README.md` — lesson goals, and MakeCode share link
-- `pxt.json` — MakeCode project config
-- `main.ts` — source code (TypeScript)
-- `assets/` — images and circuit diagrams
+> 🌐 This hub is also published as a website: **https://roversa-robotics.github.io/Roversa_PetBot_hub/**
 
 ---
 
-<!-- ## 🤝 Contributing
+## Prerequisites
 
-Optional — include this if others might contribute.
-Describe how to suggest fixes, add lessons, or report issues. -->
+- [Roversa](https://www.roversa.com/home.html) and USB cable
+- A computer with access to [makecode.microbit.org](https://makecode.microbit.org)
 
 ---
 
-## 📄 License
+## Repository Structure
+
+```
+Roversa_PetBot_hub/
+├── assets/          — shared images (logo, diagrams)
+├── extension/       — docs about the PetBot MakeCode extension
+├── projects/        — project & challenge descriptions with share links
+├── guides/          — setup instructions and teacher guides
+└── LICENSE
+```
+
+---
+
+## License
 
 [MIT License](LICENSE)
