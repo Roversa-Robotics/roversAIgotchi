@@ -1,0 +1,37 @@
+title: Roversa PetBot Hub
+description: >-
+  Central hub for the Roversa PetBot — a micro:bit-powered virtual pet.
+  Extension, starter code, and classroom challenges.
+remote_theme: just-the-docs/just-the-docs
+
+# This repo is served as a GitHub *project* page, so the site lives under a
+# subpath. baseurl must match the repository name.
+url: https://roversa-robotics.github.io
+baseurl: /Roversa_PetBot_hub
+
+plugins:
+  - jekyll-remote-theme
+
+# just-the-docs options
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/Roversa-Robotics/Roversa_PetBot_hub"
+aux_links_new_tab: true
+
+# Footer
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Files that should not be published as pages. The root README.md is kept for
+# GitHub repo browsing; the site home is index.md instead.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+  - .jekyll-cache
